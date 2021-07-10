@@ -2,7 +2,7 @@
 
 PyTorch implementation of IDECF
 
-<center><img src="https://github.com/Armanfard-Lab/IDECF/blob/main/Figures/overview.png" alt="Overview" width="800" align="center"></center>
+<center><img src="https://github.com/Armanfard-Lab/IDECF/blob/main/Figures/overview.png" alt="Overview" width="700" align="center"></center>
 
 
 ## Citation
