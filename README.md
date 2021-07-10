@@ -1,6 +1,6 @@
 # IDECF
 
-PyTorch implementation of IDECF
+PyTorch implementation of IDECF: Improved Deep Embedding Clustering with Deep Fuzzy Supervision
 
 <center><img src="https://github.com/Armanfard-Lab/IDECF/blob/main/Figures/overview.png" alt="Overview" width="700" align="center"></center>
 
