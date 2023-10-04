@@ -12,7 +12,7 @@ Please cite our paper if you intend to use our code or results.
 @inproceedings{sadeghi2021IDECF,
   title={IDECF: Improved Deep Embedding Clustering with Deep Fuzzy Supervision},
   author={M. Sadeghi, and N. Armanfard},
-  booktitle={Accepted to be published in IEEE International Conference on Image Processing (ICIP)},
+  booktitle={IEEE International Conference on Image Processing (ICIP)},
   year={2021},
 }
 ```
